@@ -2,6 +2,9 @@
 
 ## Deadpool (CUSA03528, base 1.00 + update)
 
+![Deadpool main menu on lifted code](https://raw.githubusercontent.com/GenryTheFox0/OrbisGlue/main/.github/screens/deadpool-menu.jpg)
+![Deadpool gameplay on lifted code](https://raw.githubusercontent.com/GenryTheFox0/OrbisGlue/main/.github/screens/deadpool-apartment.jpg)
+
 | | |
 |---|---|
 | Functions | 123,409 |

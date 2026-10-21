@@ -10,6 +10,10 @@ SPDX-License-Identifier: GPL-2.0-or-later
   <a href="#english">English</a> · <a href="#русский">Русский</a> · <a href="../../wiki">Wiki</a> · <a href="https://t.me/teamgenrythefox">Telegram</a>
 </p>
 
+| Deadpool on lifted code · Дэдпул на переведённом коде | |
+| :---: | :---: |
+| ![Deadpool main menu on OrbisGlue Mosaic](.github/screens/deadpool-menu.jpg) | ![Deadpool gameplay on OrbisGlue Mosaic](.github/screens/deadpool-apartment.jpg) |
+
 ---
 
 ## English
